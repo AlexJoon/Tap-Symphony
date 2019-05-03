@@ -1,5 +1,6 @@
 # TapTappington
 
+<<< All images were found on OpenGameArt from various authors. >>>
 
 #State of the game, rough cut, fewish hours in from scratch
 
