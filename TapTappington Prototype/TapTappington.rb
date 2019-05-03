@@ -109,8 +109,8 @@ class TapTappington < Gosu::Window
     @sec_button_play = true
     @third_button_play = true
     @four_button_play = true
-    @four_button_play = true
-    @four_button_play = true
+    @fifth_button_play = true
+    @sixth_button_play = true
   
     
   end
@@ -237,6 +237,22 @@ class TapTappington < Gosu::Window
           @hit += 4
           @four_button_visibility -= 1 
           @four_button_play = false
+        end
+      end
+      if @fifth_button_play == true
+        if Gosu.distance(mouse_x, mouse_y,@fifth_button_x,@fifth_button_y) < 30
+          @score -= 200
+          @hit += 4
+          @fifth_button_visibility -= 1 
+          @fifth_button_play = false
+        end
+      end
+      if @sixth_button_play == true
+        if Gosu.distance(mouse_x, mouse_y,@sixth_button_x,@sixth_button_y) < 30
+          @score -= 200
+          @hit += 4
+          @sixth_button_visibility -= 1 
+          @sixth_button_play = false
         end
       end
     end
