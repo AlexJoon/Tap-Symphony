@@ -1,4 +1,4 @@
-# Title: Tap Symphony
+# Tap Symphony!
 
 <<< All images were found on OpenGameArt from various authors. >>>
 
@@ -18,4 +18,4 @@
 
 ![TapSymphony](https://user-images.githubusercontent.com/46412260/64470023-21e45100-d10a-11e9-8288-b1aa616541df.png)
 
-![TapSymphony6](https://user-images.githubusercontent.com/46412260/64470046-7e477080-d10a-11e9-9254-7a71fe81a1ea.png)
+![TapSymphony6](https://user-images.githubusercontent.com/46412260/64470057-a8992e00-d10a-11e9-880e-27ecffd6d1ea.png)
