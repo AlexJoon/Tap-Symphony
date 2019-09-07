@@ -17,3 +17,5 @@
 #Final Product (for now). I may remake this in GML and GameMaker Studio 2.
 
 ![TapSymphony](https://user-images.githubusercontent.com/46412260/64470023-21e45100-d10a-11e9-8288-b1aa616541df.png)
+
+![TapSymphony6](https://user-images.githubusercontent.com/46412260/64470046-7e477080-d10a-11e9-9254-7a71fe81a1ea.png)
