@@ -18,6 +18,8 @@
 
 ![TapSymphony](https://user-images.githubusercontent.com/46412260/64470023-21e45100-d10a-11e9-8288-b1aa616541df.png)
 
+![TapSymphony2](https://user-images.githubusercontent.com/46412260/64470089-50166080-d10b-11e9-84b6-8bf6f7098a15.png)
+
 ![TapSymphony6](https://user-images.githubusercontent.com/46412260/64470057-a8992e00-d10a-11e9-880e-27ecffd6d1ea.png)
 
 ![TapSymphony7](https://user-images.githubusercontent.com/46412260/64470066-d2525500-d10a-11e9-9fd6-f719a3a6b735.png)
