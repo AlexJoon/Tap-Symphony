@@ -12,7 +12,7 @@
 
 #As you go on through the levels by defeating bosses, different stronger bosses will spawn with different landscapes and more monsters will spawn and will be increasingly harder as well. Tapping game w/ RPG elements are being used with different spells and upgrading weapons.
 
-#An .exe of the game is attached to this repo as well! :)
+#An .exe of the game is attached to this repo as well. The .exe is only playable on Windows. 
 
 #Final Product (for now). I may remake this in GML and GameMaker Studio 2.
 
